@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Advanced</string>
+    <string name="open">Open</string>
+    <string name="english">English</string>
+    <string name="russian">Russian</string>
+    <string name="uzbek">Uzbek</string>
+</resources>

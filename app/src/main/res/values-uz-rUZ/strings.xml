@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ma\'lumotlar bazasini o\'rganish</string>
+    <string name="open">Ochiq</string>
+    <string name="english">Ingliz tili</string>
+    <string name="russian">Rus tili</string>
+    <string name="uzbek">O\'zbek tili</string>
+</resources>

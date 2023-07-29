@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Изучите базу данных</string>
+    <string name="open">открыть</string>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+    <string name="uzbek">узбекский</string>
+</resources>
